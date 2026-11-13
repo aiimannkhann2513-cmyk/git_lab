@@ -1,5 +1,1 @@
-My first git lab
-
-hello 
-
-hi
+This is my first git lab
